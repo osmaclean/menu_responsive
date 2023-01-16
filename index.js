@@ -24,18 +24,18 @@ class MobileNavBar {
         this.animateLinks();
     }
 
-    addClickEvent () {
+    addClickEvent() {
         this.mobileMenu.addEventListener("click", this.handleClick);
     }
 
 
-    init () {
-        if (this.mobileMenu){
+    init() {
+        if (this.mobileMenu) {
             this.addClickEvent();
         }
         return this;
     }
-    
+
 }
 
 const mobileNavBar = new MobileNavBar(
