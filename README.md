@@ -12,6 +12,8 @@
 
 https://menu-responsive-beta.vercel.app
 
+<hr>
+
 # IDE Utilizada
 
 <div> 
