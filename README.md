@@ -8,6 +8,10 @@
 
 <hr>
 
+## Link do Deploy (Vercel)
+
+https://menu-responsive-beta.vercel.app
+
 # IDE Utilizada
 
 <div> 
